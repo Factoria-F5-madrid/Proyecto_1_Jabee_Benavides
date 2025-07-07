@@ -1,0 +1,2 @@
+{"fecha": "2025-07-07 04:29:42", "detenido": 0.11, "movimiento": 0.17, "total": 0.01}
+{"fecha": "2025-07-07 04:30:59", "detenido": 0.15, "movimiento": 0.42, "total": 0.02}

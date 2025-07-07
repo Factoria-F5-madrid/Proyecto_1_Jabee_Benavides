@@ -1,0 +1,7 @@
+{
+    "tarifas": {
+        "detencion": 0.02,
+        "movimiento": 0.05
+    },
+    "primer_inicio": false
+}
